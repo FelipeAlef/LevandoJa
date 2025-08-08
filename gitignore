@@ -51,6 +51,7 @@
 
 # Ignore Delphi FMX specific files
 **/__recovery/*
+**/__history/*
 *.gdbtable
 *.gdbtable.cache
 *.ijlog
