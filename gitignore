@@ -34,6 +34,7 @@
 **/iOSDevice64/Release/*
 **/Android/Debug/*
 **/Android/Release/*
+**/dcu/*
 
 # Ignore packages output
 *.bpl
