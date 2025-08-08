@@ -1,3 +1,9 @@
+# Arquivos de backup do Delphi
+__history/
+# Outras pastas de build
+/dcu/
+/__recovery/
+
 # Ignore DSK files
 *.dsk
 
