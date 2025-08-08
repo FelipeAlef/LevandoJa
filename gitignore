@@ -35,6 +35,7 @@
 **/Android/Debug/*
 **/Android/Release/*
 **/dcu/*
+**/log/*
 
 # Ignore packages output
 *.bpl
